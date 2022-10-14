@@ -1,0 +1,39 @@
+.input {
+    width: 282px;
+    height: 20px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.sol {
+    padding: 5px;
+    background-color: aqua;
+    width: 450px;
+    margin: 5px;
+    height: 150px;
+    text-align:center;
+    
+}
+
+.orta {
+    padding: 5px;
+    background-color: rgb(20, 212, 212);
+    width: 300px;
+    margin: 5px;
+    height: 150px;
+    text-align: center;
+    
+}
+
+.sağ {
+    padding: 5px;
+    background-color: rgb(56, 151, 163);
+    width: 450px;
+    margin: 5px;
+    height: 150px;
+    text-align: center;
+
+}
+.box {
+    float: left;
+}
